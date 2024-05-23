@@ -32,7 +32,7 @@ class _NavigationMenuState extends State<NavigationMenu> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            "sas",
+            "App Utilities",
             style: TextStyle(
               fontSize: 25,
             ),
